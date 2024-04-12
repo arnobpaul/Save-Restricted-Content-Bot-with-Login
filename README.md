@@ -1,7 +1,7 @@
 # Save Restricted Content Bot with Login Features
 
 This bot is designed to save the restrict content on telegram channel/groups where forward is off/saving is not allowed, with login features for added integrity.
-A successor of [SAVE RESTRICTED CONTENT BOT REPO](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo)
+A successor of [SAVE RESTRICTED CONTENT BOT REPO](https://github.com/arnobpaul/Save-Restricted-Content-Bot-Repo)
 ## Features:
 - Save restricted content
 - Login functionality
